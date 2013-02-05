@@ -1,3 +1,4 @@
+[Home](../README.md)
 #L3
 
 - Parallel / Series Req  
