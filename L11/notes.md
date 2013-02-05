@@ -13,7 +13,7 @@
 - Focus on the problems first! Don't get bogged down by the T/F and MC.
 
 ###GR-Specific
-- Go through GR page-by-page, pointing out errata.
+- Go through GR page-by-page, pointing out errata.  
     Problem 4 - the words at the top of the problem read "In the below circuit,
-the 120 Ohm resistors..."
+the 120 Ohm resistors..."  
     Should read "12 Ohm Resistors"
