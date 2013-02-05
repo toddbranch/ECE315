@@ -4,31 +4,31 @@
 ##L1-4 - Circuits
 
 ###L1
-Ohm's Law
-Power Equation
-Engineering Notation
+Ohm's Law  
+Power Equation  
+Engineering Notation  
 
 ###L2
-KVL
-KCL
-Conservation of Power
+KVL  
+KCL  
+Conservation of Power  
 
 ###L3
-Parallel / Series Req
-Voltage Division
-Current Division
+Parallel / Series Req  
+Voltage Division  
+Current Division  
 
 ###L4
-AC Signals
-RMS
-Efficiency
+AC Signals  
+RMS  
+Efficiency  
 
 ###L5 - Lab
 
 ##L6-9 - Power Generation / Transmission / Distribution
 L6
-Sources of Electricity and Usage
-DC Motors
+Sources of Electricity and Usage  
+DC Motors  
 Mechanical Power
 Efficiency
 
