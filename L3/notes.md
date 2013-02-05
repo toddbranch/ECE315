@@ -1,6 +1,6 @@
 #Lesson 3
 [ ] KVL  
-[ ] KCL 
+[ ] KCL  
 [ ] Conservation of Power  
 
 ###KVL
