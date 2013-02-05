@@ -7,4 +7,4 @@
 ##Parallel / Series Req
 ###Parallel
 
-![Parallel Resistors](https://raw.github.com/toddbranch/ECE315/master/L3/parallel.png)
+![Parallel Resistors](L3/parallel.png)
