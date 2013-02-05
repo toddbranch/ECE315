@@ -7,4 +7,4 @@
 ##Parallel / Series Req
 ###Parallel
 
-![Parallel Resistors](L3/parallel.png)
+![Parallel Resistors](parallel.png)
