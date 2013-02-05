@@ -22,3 +22,5 @@
 - Focus on the problems first! Don't get bogged down by the T/F and MC.
 - Don't leave problems blank.  Pace yourself.
 - Write down what you know.
+
+[!Test Equation](http://latex.codecogs.com/gif.latex?1+sin(x))
