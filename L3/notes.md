@@ -1,11 +1,6 @@
-#Lesson 3
-[ ] KVL  
-[ ] KCL  
-[ ] Conservation of Power  
+#L3
 
-###KVL
-
-###KCL
-
-###Conservation of Power
+- Parallel / Series Req  
+- Voltage Division  
+- Current Division  
 
