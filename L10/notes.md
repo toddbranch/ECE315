@@ -23,25 +23,25 @@ AC Signals
 RMS  
 Efficiency  
 
-###L5 - Lab
+##L5 - Lab
 
 ##L6-9 - Power Generation / Transmission / Distribution
-L6
+L6  
 Sources of Electricity and Usage  
 DC Motors  
-Mechanical Power
-Efficiency
+Mechanical Power  
+Efficiency  
 
-L7
-Transformers
-Efficiency
+L7  
+Transformers  
+Efficiency  
 
-L8
-AC/DC Converters
-Decision Matrices
+L8  
+AC/DC Converters  
+Decision Matrices  
 
-L9
-Busses
+L9  
+Busses  
 
 
 Focus on circuits concepts because they should be the least fresh in student
