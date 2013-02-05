@@ -1,7 +1,7 @@
 #L10
-- [ ] Quizzes Back - Review
-- [ ] Project Overview
-- [x] Review
+[ ] Quizzes Back - Review
+[ ] Project Overview
+[x] Review
 
 ##Review
 
